@@ -12,8 +12,8 @@ Config.ESX = false -- Set this to true if you use ESX
 
 -- Types of identifiers: steam: | license: | xbl: | live: | discord: | fivem: | ip:
 Config.AdminList = {
-	'license:2ash123ad1337a15029a21a6s4e3622f91cde1d0', -- Example, change this
-	'discord:370910283901283929' -- Example, change this
+	'license:', -- Example, change this
+	'discord:' -- Example, change this
 }
 
 -- Time (in minutes) that it will take to delete vehicles since you execute the command
